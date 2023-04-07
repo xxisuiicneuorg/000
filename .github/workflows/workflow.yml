@@ -6,7 +6,7 @@ jobs:
 
   runner:
 
-    runs-on: ubuntu:20.04 # 选择你想要的主机系统如：ubuntu:20.04
+    runs-on: ubuntu:20.04 # 选择你想要的主机系统如：ubuntu:20.04 1
 
     steps:
 
